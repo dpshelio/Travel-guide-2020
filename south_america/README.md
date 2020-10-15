@@ -1,3 +1,3 @@
 # SOUTH_AMERICA
 
-[Peru](/peru)
+[Peru](/peru/machu_picchu.md)
