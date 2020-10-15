@@ -1,2 +1,2 @@
 # EUROPE
-- [Trabzon](./europe/Turkey/readme.md)
+- [Turkey](./europe/Turkey/readme.md)
