@@ -1,0 +1,3 @@
+# Germnay
+Destination:
+- [Hamburg](/Hamburg)
