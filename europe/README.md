@@ -1,3 +1,3 @@
 # EUROPE
 
-[Monaco](./monaco)
+[Monaco](./Monaco)
