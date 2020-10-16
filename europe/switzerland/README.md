@@ -1,0 +1,2 @@
+# Switzerland
+ - [Zurich](./zurich.md)
