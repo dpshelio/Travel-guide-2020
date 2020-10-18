@@ -1,4 +1,4 @@
 # EUROPE
 
--
-- [hungary](./hungary/README.md)
+
+- [Hungary](./hungary/README.md)
