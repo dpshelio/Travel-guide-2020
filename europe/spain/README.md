@@ -1,3 +1,3 @@
 # SPAIN
 
-[barcelona](/barcelona.md)
+[barcelona](./barcelona.md)
