@@ -1,1 +1,2 @@
 # EUROPE
+[Sweden](./europe/Sweden)
