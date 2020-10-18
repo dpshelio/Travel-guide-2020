@@ -1,2 +1,2 @@
 Most recommended
-[Abisko](.Sweden/Abisko.md)
+[Abisko](./Sweden/Abisko.md)
