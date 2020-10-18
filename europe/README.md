@@ -1,2 +1,2 @@
 # EUROPE
-[Sweden](./europe/Sweden)
+[Sweden](./europe/Sweden.md)
