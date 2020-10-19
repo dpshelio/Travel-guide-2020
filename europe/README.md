@@ -1,3 +1,3 @@
 
 # EUROPE
-[Greece folder](./greece)
+[Greece folder](./greece.md)
