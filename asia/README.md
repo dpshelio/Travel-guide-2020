@@ -1,1 +1,3 @@
 # ASIA
+
+[thailand](./thailand.md)
