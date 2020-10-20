@@ -1,3 +1,3 @@
 # ITALY
 
-[milan] (./milan.md)
+[milan](./milan.md)
