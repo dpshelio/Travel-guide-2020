@@ -1,1 +1,3 @@
 # ASIA
+
+[Philippines](./Philippines)
