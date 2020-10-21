@@ -1,2 +1,2 @@
 # EUROPE
-- [IRELAND](./ireland/)
+- [IRELAND](./ireland/README.md)
