@@ -1,2 +1,2 @@
 # New Zealand
-[Fiordland](./new_zealand/fiordland.md)
+[Fiordland](./oceania/new_zealand/fiordland.md)
