@@ -1,2 +1,2 @@
 # EUROPE
-- [Switzerland](./europe/switzerland/README.md)
+ - [Switzerland](./switzerland/README.md)
