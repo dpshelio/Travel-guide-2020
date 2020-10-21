@@ -1,3 +1,3 @@
-A cute city: 
+A cute city in Philippines: 
 [Baguio](./Baguio)
 
