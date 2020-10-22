@@ -1,3 +1,3 @@
 # SOUTH_AMERICA
 
-- [Argentina](./argentina)
+- [Argentina](./argentina/README.md)
