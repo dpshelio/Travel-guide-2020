@@ -1,2 +1,2 @@
 # EUROPE
-[canary_islands.md](../spanish/canary_islands.md)
+[canary_islands.md](./spanish/canary_islands.md)
