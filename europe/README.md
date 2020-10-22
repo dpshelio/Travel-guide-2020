@@ -1,3 +1,3 @@
 # EUROPE
 
-- [Edinburgh](./uk/edinburgh.md)
+- [UK](./uk)
