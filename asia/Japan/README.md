@@ -1,3 +1,1 @@
-# Tokyo
-
-Tokyo is a very beautiful city. I would love to go to Ginza, which is the largest business area both for working and for entertainment. I really hope to taste Kobe beef in the restaurant in Ginza even if the price is high. Eating the beef together with watching Olympic Games is very enjoyable. More info at [wikivoyage](https://en.wikivoyage.org/wiki/Tokyo) and [wikipedia](https://en.wikipedia.org/wiki/Tokyo)
+[Tokyo](./Tokyo.md)
