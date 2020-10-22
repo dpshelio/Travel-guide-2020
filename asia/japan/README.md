@@ -1,0 +1,2 @@
+#Japan
+- [KYOTO](./kyoto.md)
