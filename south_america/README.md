@@ -1,2 +1,4 @@
 # SOUTH_AMERICA
--[COSTA_RICA](south_america/costa_rica/README.md)
+
+- [Argentina](./argentina/README.md)
+- [COSTA_RICA](./costa_rica/README.md)
