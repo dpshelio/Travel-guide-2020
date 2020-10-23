@@ -1,2 +1,2 @@
 # UK
-- [CaymanIslands](/europe/UK/cayman_islands.md)
+- [CaymanIslands](./cayman_islands.md)
