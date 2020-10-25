@@ -1,4 +1,4 @@
-#Iceland
+#Reykjavic2
 I would like to see the northern lights. 
 Also there are some amazing thermal spas that you can swim in.
 It would be interesting to see volcanoes too.
