@@ -1,1 +1,2 @@
 # Ireland
+- [Galway](./galway.md)
