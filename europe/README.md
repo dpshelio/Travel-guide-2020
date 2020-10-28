@@ -1,2 +1,2 @@
 # EUROPE
- - [BELARUS](./belarus/minsk.md)
+ - [BELARUS](./belarus/README.md)
