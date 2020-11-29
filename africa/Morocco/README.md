@@ -1,0 +1,3 @@
+# Morocco
+
+- [Fez] (./Fez.md)
