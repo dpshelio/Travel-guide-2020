@@ -1,3 +1,3 @@
 # Morocco
 
-- [Fez] (./Fez.md)
+- [Fez](./Fez.md)
