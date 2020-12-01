@@ -1,4 +1,4 @@
-# Lisbon
+# Portugal
 
 [Lisbon](./lisbon.md)
 
